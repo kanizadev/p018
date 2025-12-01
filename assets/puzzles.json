@@ -1,0 +1,1482 @@
+{
+  "easy": [
+    {
+      "title": "Fun Animals",
+      "rows": 5,
+      "cols": 5,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Meow! A furry pet (3)",
+          "answer": "cat",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "A little kid (3)",
+          "answer": "tot",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Not inside (3)",
+          "answer": "out",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Yummy food! (3)",
+          "answer": "eat",
+          "row": 1,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "title": "Pets and Friends",
+      "rows": 6,
+      "cols": 6,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Woof! A friendly pet (3)",
+          "answer": "dog",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Meow! A cuddly pet (3)",
+          "answer": "cat",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "When stars come out (5)",
+          "answer": "night",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "A farm bird (3)",
+          "answer": "hen",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Warm drink (3)",
+          "answer": "tea",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Colors and Treats",
+      "rows": 7,
+      "cols": 7,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Sky color (4)",
+          "answer": "blue",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Opposite of down (2)",
+          "answer": "up",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Birthday dessert (4)",
+          "answer": "cake",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Big water (3)",
+          "answer": "sea",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Flies in the sky (5)",
+          "answer": "plane",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Opposite of cold (3)",
+          "answer": "hot",
+          "row": 2,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "title": "Fruits and Nature",
+      "rows": 5,
+      "cols": 5,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Red or green fruit (5)",
+          "answer": "apple",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Small animal friend (3)",
+          "answer": "pet",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Grows on trees (4)",
+          "answer": "leaf",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Look with your eyes (3)",
+          "answer": "see",
+          "row": 0,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "title": "Farm Animals",
+      "rows": 6,
+      "cols": 6,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Ocean water (3)",
+          "answer": "sea",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Past of see (3)",
+          "answer": "saw",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Moo! Farm animal (3)",
+          "answer": "cow",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Opposite of old (3)",
+          "answer": "new",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Number after one (3)",
+          "answer": "two",
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Colors and Food",
+      "rows": 6,
+      "cols": 6,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Color of roses (3)",
+          "answer": "red",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Past of read (4)",
+          "answer": "read",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Breakfast, lunch, or dinner (4)",
+          "answer": "meal",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Me and you (2)",
+          "answer": "me",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Opposite of small (3)",
+          "answer": "big",
+          "row": 2,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Body Parts",
+      "rows": 7,
+      "cols": 7,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "You see with this (3)",
+          "answer": "eye",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Opposite of no (3)",
+          "answer": "yes",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Vehicle with wheels (3)",
+          "answer": "car",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "You hear with this (3)",
+          "answer": "ear",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Move fast (3)",
+          "answer": "run",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Opposite of yes (2)",
+          "answer": "no",
+          "row": 2,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "title": "Sunshine Fun",
+      "rows": 5,
+      "cols": 5,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Shines in the sky (3)",
+          "answer": "sun",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "A boy child (3)",
+          "answer": "son",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Having a good time (3)",
+          "answer": "fun",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Not (2)",
+          "answer": "un",
+          "row": 2,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Happy Words",
+      "rows": 6,
+      "cols": 6,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Hop up high (4)",
+          "answer": "jump",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Happiness (3)",
+          "answer": "joy",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Go from here to there (4)",
+          "answer": "move",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Your mother (3)",
+          "answer": "mom",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "I ___ you! (4)",
+          "answer": "love",
+          "row": 3,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "title": "Stars and Art",
+      "rows": 7,
+      "cols": 7,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Twinkles at night (4)",
+          "answer": "star",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Rest on a chair (3)",
+          "answer": "sit",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Sour dessert (4)",
+          "answer": "tart",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Drawing and painting (3)",
+          "answer": "art",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "A piece of something (4)",
+          "answer": "part",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Gentle touch (3)",
+          "answer": "pat",
+          "row": 2,
+          "col": 4
+        }
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "title": "Zoo Animals",
+      "rows": 7,
+      "cols": 7,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "King of the jungle (4)",
+          "answer": "lion",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Opposite of stop (2)",
+          "answer": "go",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Where you live (4)",
+          "answer": "home",
+          "row": 3,
+          "col": 1
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Sharp weapon (4)",
+          "answer": "dart",
+          "row": 1,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "title": "Toys and Games",
+      "rows": 9,
+      "cols": 9,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Bounces high (7)",
+          "answer": "bouncer",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Sharp point (4)",
+          "answer": "dart",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Plaything (6)",
+          "answer": "toybox",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Time to come (5)",
+          "answer": "later",
+          "row": 1,
+          "col": 7
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Building blocks (6)",
+          "answer": "legos",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Makes things (6)",
+          "answer": "create",
+          "row": 4,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Superheroes",
+      "rows": 10,
+      "cols": 10,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Flies in the sky (7)",
+          "answer": "superman",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Smart bird (4)",
+          "answer": "crow",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Plaything (6)",
+          "answer": "toycar",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Time ahead (5)",
+          "answer": "later",
+          "row": 1,
+          "col": 7
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Stuff for making (7)",
+          "answer": "supplies",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Path to follow (4)",
+          "answer": "road",
+          "row": 5,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Ocean Friends",
+      "rows": 8,
+      "cols": 8,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Robot friend (7)",
+          "answer": "android",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Fish home (3)",
+          "answer": "sea",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Secret message (4)",
+          "answer": "code",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Thread or yarn (6)",
+          "answer": "string",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Into something (4)",
+          "answer": "into",
+          "row": 3,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "title": "Playground Fun",
+      "rows": 9,
+      "cols": 9,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Play place (3)",
+          "answer": "park",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "For everyone (6)",
+          "answer": "public",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Make something (5)",
+          "answer": "build",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Make new (6)",
+          "answer": "update",
+          "row": 0,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Calendar day (4)",
+          "answer": "date",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Information (4)",
+          "answer": "data",
+          "row": 5,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "title": "Party Time",
+      "rows": 8,
+      "cols": 8,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Having fun (8)",
+          "answer": "partying",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Enjoyment (3)",
+          "answer": "fun",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Do something (6)",
+          "answer": "action",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Perform (3)",
+          "answer": "act",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "A thing (6)",
+          "answer": "object",
+          "row": 5,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Magic Show",
+      "rows": 10,
+      "cols": 10,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Can change (8)",
+          "answer": "variable",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Different (3)",
+          "answer": "var",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Always the same (8)",
+          "answer": "constant",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Always (5)",
+          "answer": "const",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Way to do it (6)",
+          "answer": "method",
+          "row": 7,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "School Days",
+      "rows": 9,
+      "cols": 9,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Learning room (5)",
+          "answer": "class",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Phone someone (4)",
+          "answer": "call",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Come back (6)",
+          "answer": "return",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Short for return (3)",
+          "answer": "ret",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Bring in (6)",
+          "answer": "import",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Little helper (3)",
+          "answer": "imp",
+          "row": 5,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Story Books",
+      "rows": 8,
+      "cols": 8,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Book place (7)",
+          "answer": "library",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Books (3)",
+          "answer": "lib",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Gift box (7)",
+          "answer": "package",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Put in box (4)",
+          "answer": "pack",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Part of something (6)",
+          "answer": "module",
+          "row": 6,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Adventure Time",
+      "rows": 10,
+      "cols": 10,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Structure (9)",
+          "answer": "framework",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Picture border (5)",
+          "answer": "frame",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Stage or base (8)",
+          "answer": "platform",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Flat (4)",
+          "answer": "flat",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Whole thing (6)",
+          "answer": "system",
+          "row": 6,
+          "col": 0
+        }
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "title": "Wild Animals",
+      "rows": 9,
+      "cols": 9,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Flies and buzzes (7)",
+          "answer": "butterfly",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Smart bird (4)",
+          "answer": "crow",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Plaything (6)",
+          "answer": "toycar",
+          "row": 2,
+          "col": 1
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Time ahead (5)",
+          "answer": "later",
+          "row": 1,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "title": "Space Adventure",
+      "rows": 12,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Full of energy (12)",
+          "answer": "energetic",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Surroundings (7)",
+          "answer": "context",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Moving pictures (9)",
+          "answer": "animation",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Flowing water (6)",
+          "answer": "stream",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Hand movement (8)",
+          "answer": "gesture",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Super brave person (4)",
+          "answer": "hero",
+          "row": 5,
+          "col": 4
+        },
+        {
+          "id": "7A",
+          "direction": "A",
+          "clue": "Gives things (7)",
+          "answer": "provider",
+          "row": 8,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Art and Colors",
+      "rows": 15,
+      "cols": 15,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Art supplies (7)",
+          "answer": "material",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Apple place (9)",
+          "answer": "cupertino",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Storage space (6)",
+          "answer": "drawer",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Lowest part (6)",
+          "answer": "bottom",
+          "row": 2,
+          "col": 3
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Yummy treat (8)",
+          "answer": "snackbar",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "Talk box (6)",
+          "answer": "dialog",
+          "row": 5,
+          "col": 4
+        },
+        {
+          "id": "7A",
+          "direction": "A",
+          "clue": "Support frame (8)",
+          "answer": "scaffold",
+          "row": 8,
+          "col": 0
+        },
+        {
+          "id": "8D",
+          "direction": "D",
+          "clue": "Phone app (6)",
+          "answer": "appbar",
+          "row": 8,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "title": "Family Tree",
+      "rows": 11,
+      "cols": 11,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Getting from parents (11)",
+          "answer": "inheritance",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Receive (7)",
+          "answer": "inherit",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Many shapes (11)",
+          "answer": "polymorphism",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Many (4)",
+          "answer": "poly",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Wrapping up (12)",
+          "answer": "encapsulation",
+          "row": 6,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Science Lab",
+      "rows": 13,
+      "cols": 13,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "General idea (10)",
+          "answer": "abstraction",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Not real (8)",
+          "answer": "abstract",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Connection point (9)",
+          "answer": "interface",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Between (5)",
+          "answer": "inter",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Making it real (13)",
+          "answer": "implementation",
+          "row": 7,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Building Blocks",
+      "rows": 12,
+      "cols": 12,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Makes things (11)",
+          "answer": "constructor",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Build (9)",
+          "answer": "construct",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Takes apart (10)",
+          "answer": "destructor",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Break (6)",
+          "answer": "destroy",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Too much (10)",
+          "answer": "overloading",
+          "row": 8,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Magic Tricks",
+      "rows": 14,
+      "cols": 14,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Taking over (9)",
+          "answer": "overriding",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Replace (8)",
+          "answer": "override",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Not real function (15)",
+          "answer": "virtualfunction",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Not real (7)",
+          "answer": "virtual",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Completely not real (11)",
+          "answer": "purevirtual",
+          "row": 9,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Craft Time",
+      "rows": 13,
+      "cols": 13,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Pattern to copy (8)",
+          "answer": "template",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Short time (4)",
+          "answer": "temp",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "General type (7)",
+          "answer": "generic",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Part of body (4)",
+          "answer": "gene",
+          "row": 3,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Name space (9)",
+          "answer": "namespace",
+          "row": 7,
+          "col": 0
+        },
+        {
+          "id": "6D",
+          "direction": "D",
+          "clue": "What you're called (4)",
+          "answer": "name",
+          "row": 7,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Problem Solving",
+      "rows": 15,
+      "cols": 15,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Dealing with problems (17)",
+          "answer": "exceptionhandling",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Special case (9)",
+          "answer": "exception",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Fixing mistakes (13)",
+          "answer": "errorhandling",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Mistake (5)",
+          "answer": "error",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Attempt and catch (9)",
+          "answer": "trycatch",
+          "row": 10,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "title": "Memory Games",
+      "rows": 16,
+      "cols": 16,
+      "entries": [
+        {
+          "id": "1A",
+          "direction": "A",
+          "clue": "Remembering things (16)",
+          "answer": "memorymanagement",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "2D",
+          "direction": "D",
+          "clue": "Remembering (6)",
+          "answer": "memory",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "id": "3A",
+          "direction": "A",
+          "clue": "Trash pickup (17)",
+          "answer": "garbagecollection",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "4D",
+          "direction": "D",
+          "clue": "Trash (7)",
+          "answer": "garbage",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "id": "5A",
+          "direction": "A",
+          "clue": "Counting things (16)",
+          "answer": "referencecounting",
+          "row": 9,
+          "col": 0
+        }
+      ]
+    }
+  ]
+}
