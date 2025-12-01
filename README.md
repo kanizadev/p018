@@ -2,6 +2,9 @@
 
 A delightful and educational crossword puzzle game designed specifically for kids! Help children learn vocabulary, improve spelling, and have fun solving puzzles with age-appropriate clues and colorful, engaging UI.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ## ✨ Features
 
 - 🎯 **Three Difficulty Levels**
