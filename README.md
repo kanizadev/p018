@@ -37,49 +37,6 @@ A delightful and educational crossword puzzle game designed specifically for kid
 
 _Add screenshots of your app here_
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (3.9.2 or higher)
-- Dart SDK
-- Android Studio / VS Code with Flutter extensions
-- iOS Simulator (for Mac) or Android Emulator
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/p018.git
-   cd p018
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-### Building for Production
-
-**Android:**
-```bash
-flutter build apk --release
-```
-
-**iOS:**
-```bash
-flutter build ios --release
-```
-
-**Web:**
-```bash
-flutter build web
-```
 
 ## 🎮 How to Play
 
@@ -92,20 +49,6 @@ flutter build web
 7. **Check Answers**: Use the check button to verify your progress
 8. **Complete**: Finish all clues to complete the puzzle!
 
-## 📁 Project Structure
-
-```
-p018/
-├── lib/
-│   └── main.dart          # Main application code
-├── assets/
-│   └── puzzles.json       # Puzzle data (Easy, Medium, Hard)
-├── test/                  # Unit tests
-├── android/               # Android-specific files
-├── ios/                   # iOS-specific files
-├── web/                   # Web-specific files
-└── pubspec.yaml          # Dependencies and configuration
-```
 
 ## 🛠️ Technologies Used
 
@@ -150,20 +93,6 @@ Modify the color scheme in `lib/main.dart`:
 - Light theme colors
 - Dark theme colors
 - Primary, secondary, and tertiary colors
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. Here are some ways you can help:
-
-- Add new puzzles
-- Improve UI/UX
-- Fix bugs
-- Add new features
-- Improve documentation
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
